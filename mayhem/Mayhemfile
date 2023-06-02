@@ -1,0 +1,5 @@
+project: gpt4free
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
